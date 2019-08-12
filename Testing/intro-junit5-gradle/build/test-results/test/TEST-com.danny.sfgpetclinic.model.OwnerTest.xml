@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.sfgpetclinic.model.OwnerTest" tests="18" skipped="0" failures="0" errors="0"
+           timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.276">
+    <properties/>
+    <testcase name="testValueSource(String)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.044"/>
+    <testcase name="testValueSource(String)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.002"/>
+    <testcase name="testValueSource(String)[3]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.001"/>
+    <testcase name="enumTest(OwnerType)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.0"/>
+    <testcase name="enumTest(OwnerType)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.001"/>
+    <testcase name="dependentAssertions()" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.008"/>
+    <testcase name="fromCustomProviderTest(String, int, int)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.005"/>
+    <testcase name="fromCustomProviderTest(String, int, int)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.002"/>
+    <testcase name="fromCustomProviderTest(String, int, int)[3]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.002"/>
+    <testcase name="fromMethodTest(String, int, int)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.004"/>
+    <testcase name="fromMethodTest(String, int, int)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.003"/>
+    <testcase name="fromMethodTest(String, int, int)[3]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.004"/>
+    <testcase name="csvInputTest(String, int, int)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.003"/>
+    <testcase name="csvInputTest(String, int, int)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.001"/>
+    <testcase name="csvInputTest(String, int, int)[3]" classname="com.danny.sfgpetclinic.model.OwnerTest" time="0.002"/>
+    <testcase name="csvFromFileTest(String, int, int)[1]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.001"/>
+    <testcase name="csvFromFileTest(String, int, int)[2]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.0"/>
+    <testcase name="csvFromFileTest(String, int, int)[3]" classname="com.danny.sfgpetclinic.model.OwnerTest"
+              time="0.001"/>
+    <system-out><![CDATA[Danny
+Dandi
+Totha
+INDIVIDUAL
+COMPANY
+FL = 5:1
+OH = 2:8
+MI = 3:5
+FL = 5:1
+OH = 2:8
+MI = 3:5
+FL = 1 : 1
+OH = 2 : 2
+MI = 1 : 1
+FL = 1 : 1
+OH = 2 : 2
+MI = 1 : 1
+]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

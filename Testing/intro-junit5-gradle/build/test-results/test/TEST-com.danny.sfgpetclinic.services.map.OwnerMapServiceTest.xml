@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest" tests="2" skipped="0" failures="0" errors="0"
+           timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.021">
+    <properties/>
+    <testcase name="ownersAreStillZero()" classname="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest"
+              time="0.017"/>
+    <testcase name="ownersAreZero()" classname="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest" time="0.002"/>
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.sfgpetclinic.model.PersonRepeatedTest" tests="25" skipped="0" failures="0" errors="0"
+           timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.179">
+    <properties/>
+    <testcase name="myRepeatedTestWithDI(TestInfo, RepetitionInfo)[1]"
+              classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.012"/>
+    <testcase name="myRepeatedTestWithDI(TestInfo, RepetitionInfo)[2]"
+              classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.004"/>
+    <testcase name="myRepeatedTestWithDI(TestInfo, RepetitionInfo)[3]"
+              classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.004"/>
+    <testcase name="myRepeatedTestWithDI(TestInfo, RepetitionInfo)[4]"
+              classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.002"/>
+    <testcase name="myRepeatedTestWithDI(TestInfo, RepetitionInfo)[5]"
+              classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.004"/>
+    <testcase name="myRepeatedTest()[1]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.003"/>
+    <testcase name="myRepeatedTest()[2]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.011"/>
+    <testcase name="myRepeatedTest()[3]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.004"/>
+    <testcase name="myRepeatedTest()[4]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.005"/>
+    <testcase name="myRepeatedTest()[5]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.002"/>
+    <testcase name="myRepeatedTest()[6]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.002"/>
+    <testcase name="myRepeatedTest()[7]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.002"/>
+    <testcase name="myRepeatedTest()[8]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.003"/>
+    <testcase name="myRepeatedTest()[9]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.003"/>
+    <testcase name="myRepeatedTest()[10]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest" time="0.001"/>
+    <testcase name="myAssignmentRepeated()[1]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.003"/>
+    <testcase name="myAssignmentRepeated()[2]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.003"/>
+    <testcase name="myAssignmentRepeated()[3]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[4]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[5]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[6]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[7]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[8]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <testcase name="myAssignmentRepeated()[9]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.005"/>
+    <testcase name="myAssignmentRepeated()[10]" classname="com.danny.sfgpetclinic.model.PersonRepeatedTest"
+              time="0.002"/>
+    <system-out><![CDATA[Running Test - repetition 1 of 5 - 1 | 5
+repetition 1 of 5 : 1
+Running Test - repetition 2 of 5 - 2 | 5
+repetition 2 of 5 : 2
+Running Test - repetition 3 of 5 - 3 | 5
+repetition 3 of 5 : 3
+Running Test - repetition 4 of 5 - 4 | 5
+repetition 4 of 5 : 4
+Running Test - repetition 5 of 5 - 5 | 5
+repetition 5 of 5 : 5
+Running Test - My Repeated Test : 1 - 10 - 1 | 10
+Running Test - My Repeated Test : 2 - 10 - 2 | 10
+Running Test - My Repeated Test : 3 - 10 - 3 | 10
+Running Test - My Repeated Test : 4 - 10 - 4 | 10
+Running Test - My Repeated Test : 5 - 10 - 5 | 10
+Running Test - My Repeated Test : 6 - 10 - 6 | 10
+Running Test - My Repeated Test : 7 - 10 - 7 | 10
+Running Test - My Repeated Test : 8 - 10 - 8 | 10
+Running Test - My Repeated Test : 9 - 10 - 9 | 10
+Running Test - My Repeated Test : 10 - 10 - 10 | 10
+Running Test - My Assignment Repeated Test : 1 | 10 - 1 | 10
+Running Test - My Assignment Repeated Test : 2 | 10 - 2 | 10
+Running Test - My Assignment Repeated Test : 3 | 10 - 3 | 10
+Running Test - My Assignment Repeated Test : 4 | 10 - 4 | 10
+Running Test - My Assignment Repeated Test : 5 | 10 - 5 | 10
+Running Test - My Assignment Repeated Test : 6 | 10 - 6 | 10
+Running Test - My Assignment Repeated Test : 7 | 10 - 7 | 10
+Running Test - My Assignment Repeated Test : 8 | 10 - 8 | 10
+Running Test - My Assignment Repeated Test : 9 | 10 - 9 | 10
+Running Test - My Assignment Repeated Test : 10 | 10 - 10 | 10
+]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

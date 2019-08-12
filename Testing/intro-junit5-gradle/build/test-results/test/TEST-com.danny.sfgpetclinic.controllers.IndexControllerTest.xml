@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.sfgpetclinic.controllers.IndexControllerTest" tests="12" skipped="5" failures="0" errors="0"
+           timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.172">
+    <properties/>
+    <testcase name="testOnJava8()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.002"/>
+    <testcase name="testOnMacOS()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.0">
+        <skipped/>
+    </testcase>
+    <testcase name="testTimeout()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.02"/>
+    <testcase name="testAssumptionTrueAssumptionIsTrue()"
+              classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.001"/>
+    <testcase name="testTimeoutPrempt()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest"
+              time="0.005"/>
+    <testcase name="testOnWindows()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.003"/>
+    <testcase name="testIfUserTotha()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.0">
+        <skipped/>
+    </testcase>
+    <testcase name="index()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.118"/>
+    <testcase name="oupsHandler()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.002"/>
+    <testcase name="testAssumptionTrue()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest"
+              time="0.004">
+        <skipped/>
+    </testcase>
+    <testcase name="testIfUserDanish()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.0">
+        <skipped/>
+    </testcase>
+    <testcase name="testOnJava11()" classname="com.danny.sfgpetclinic.controllers.IndexControllerTest" time="0.0">
+        <skipped/>
+    </testcase>
+    <system-out><![CDATA[Let's do something here...
+I got here
+I got here
+]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

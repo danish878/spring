@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+        name="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest$TestCreatePetTypes$SaveOwnersTests$FindOwnersTests"
+        tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.004">
+    <properties/>
+    <testcase name="findOwner()"
+              classname="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest$TestCreatePetTypes$SaveOwnersTests$FindOwnersTests"
+              time="0.001"/>
+    <testcase name="findOwnerNotFound()"
+              classname="com.danny.sfgpetclinic.services.map.OwnerMapServiceTest$TestCreatePetTypes$SaveOwnersTests$FindOwnersTests"
+              time="0.001"/>
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

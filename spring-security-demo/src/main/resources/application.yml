@@ -1,0 +1,41 @@
+#spring:
+#  mvc:
+#    view:
+#      prefix: /WEB-INF/views/
+#      suffix: .jsp
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/security_demo
+#    username: nativeuser
+#    password: PmDbS@787
+#  jpa:
+#    show-sql: true
+#    properties:
+#      hibernate:
+#        ddl-auto: update
+#        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+#        format_sql: true
+#
+#
+
+
+security:
+  oauth2:
+    client:
+      client-id: 931410663836-7upsul7lhv4a4fkskjr3ku38fm5kdb67.apps.googleusercontent.com
+      client-secret: QkqY9WTjht-oX6emaWZnrke2
+      access-token-uri: https://www.googleapis.com/oauth2/v3/token
+      user-authorization-uri: https://accounts.google.com/o/oauth2/auth
+      token-name: oauth_token
+      authentication-scheme: query
+      client-authentication-scheme: form
+      scope: profile email
+    resource:
+      user-info-uri: https://www.googleapis.com/userinfo/v2/me
+      prefer-token-info: false
+
+
+
+
+
+#welcome:
+#  message: Welcome Aliens

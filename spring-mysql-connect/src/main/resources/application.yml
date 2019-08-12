@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_test
+    username: nativeuser
+    password: PmDbS@787
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp

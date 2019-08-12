@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.GreetingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-10T07:37:33"
+           hostname="Danish" time="0.015">
+    <properties/>
+    <testcase name="helloWorld()" classname="com.danny.GreetingTest" time="0.012"/>
+    <testcase name="helloWorld1()" classname="com.danny.GreetingTest" time="0.001"/>
+    <system-out><![CDATA[Before - I am only called Once!!!
+In Before Each...
+Hello World
+In After Each...
+In Before Each...
+Hello Danny
+In After Each...
+After!!! *** - I am only called Once!!!
+]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>

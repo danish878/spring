@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT" tests="5" skipped="0" failures="0"
+           errors="0" timestamp="2019-06-10T07:37:33" hostname="Danish" time="0.125">
+    <properties/>
+    <testcase name="delete()" classname="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT"
+              time="0.091"/>
+    <testcase name="findAll()" classname="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT"
+              time="0.009"/>
+    <testcase name="findById()" classname="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT"
+              time="0.006"/>
+    <testcase name="save()" classname="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT"
+              time="0.007"/>
+    <testcase name="deleteById()" classname="com.danny.sfgpetclinic.services.springdatajpa.PetTypeSDJpaServiceIT"
+              time="0.004"/>
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[Jun 10, 2019 12:37:33 PM com.danny.sfgpetclinic.junitextensions.TimingExtension afterTestExecution
+INFO: Method [delete] took 2 ms.
+Jun 10, 2019 12:37:34 PM com.danny.sfgpetclinic.junitextensions.TimingExtension afterTestExecution
+INFO: Method [findAll] took 0 ms.
+Jun 10, 2019 12:37:34 PM com.danny.sfgpetclinic.junitextensions.TimingExtension afterTestExecution
+INFO: Method [findById] took 0 ms.
+Jun 10, 2019 12:37:34 PM com.danny.sfgpetclinic.junitextensions.TimingExtension afterTestExecution
+INFO: Method [save] took 1 ms.
+Jun 10, 2019 12:37:34 PM com.danny.sfgpetclinic.junitextensions.TimingExtension afterTestExecution
+INFO: Method [deleteById] took 1 ms.
+]]></system-err>
+</testsuite>
